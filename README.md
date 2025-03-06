@@ -72,6 +72,8 @@ JavaScript ⚡ – Logic for generating the password
 
 🚀 Live Demo
 
+LiveDeo('https://github.com/Code-Game-Ninja/Password-Generator/tree/main')
+
 ---
 
 💖 Contributing
