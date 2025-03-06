@@ -72,7 +72,7 @@ JavaScript ⚡ – Logic for generating the password
 
 🚀 Live Demo
 
-LiveDeo('https://github.com/Code-Game-Ninja/Password-Generator/tree/main')
+LiveDeo('[https://github.com/Code-Game-Ninja/Password-Generator/tree/main](https://passwordtime.netlify.app/)')
 
 ---
 
