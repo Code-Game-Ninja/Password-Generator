@@ -44,6 +44,6 @@ JavaScript ⚡ – Logic for generating the password
 Feel free to fork this repository and submit a pull request with improvements.
 
 📝 Author
-👨‍💻 Created by Your Name
-📧 Contact: your-email@example.com
+👨‍💻 Created by Chirag Mishra
+📧 Contact: chiragmishra573@gmail.com
 
