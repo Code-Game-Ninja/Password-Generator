@@ -1,6 +1,7 @@
 # 🔐 Password Generator
 
 A **beginner-friendly** project that generates a **secure random password** using **HTML, CSS, and JavaScript**.  
+
 Click the **Generate** button to create a password while the password box smoothly transitions its background color. 🚀  
 
 ---
@@ -22,6 +23,7 @@ Click the **Generate** button to create a password while the password box smooth
 ## 📂 Project Structure  
 
 /password-generator
+
 │── index.html       # Main HTML structure
 
 │── style.css        # Styling and animations
@@ -47,16 +49,23 @@ Click the Generate button to create a random password.
 ---
 
 📌 Technologies Used
+
 HTML 🏗️ – Page structure
+
 CSS 🎨 – Styling, animations, and transitions
+
 JavaScript ⚡ – Logic for generating the password
 
 ---
 
 💡 Beginner-Friendly Concepts Covered
+
 ✅ JavaScript basics – Functions, event listeners, and Math.random().
+
 ✅ CSS transitions – Smooth background color change effect.
+
 ✅ DOM manipulation – Updating HTML elements dynamically.
+
 ✅ Button hover & click effects – Adding interactive UI elements.
 
 ---
@@ -66,12 +75,15 @@ JavaScript ⚡ – Logic for generating the password
 ---
 
 💖 Contributing
+
 Feel free to fork this repository and submit a pull request with improvements.
 
 ---
 
 📝 Author
+
 👨‍💻 Created by Chirag Mishra
+
 📧 Contact: chiragmishra573@gmail.com
 
 ---
