@@ -5,11 +5,16 @@ Click the **Generate** button to create a password while the password box smooth
 
 ---
 
-## 🎯 Features  
-- ✅ **Beginner-friendly** JavaScript project.  
-- ✅ Generates a **random password** with letters, numbers, and symbols.  
-- ✅ **Smooth background color transition** when generating a new password.  
-- ✅ **Stylish UI** with hover and click effects.  
+## 🎯 Features
+
+- ✅ **Beginner-friendly** JavaScript project.
+    
+- ✅ Generates a **random password** with letters, numbers, and symbols.
+
+- ✅ **Smooth background color transition** when generating a new password.
+  
+- ✅ **Stylish UI** with hover and click effects.
+  
 - ✅ **Fully responsive** for different screen sizes.  
 
 ---
