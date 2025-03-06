@@ -23,8 +23,11 @@ Click the **Generate** button to create a password while the password box smooth
 
 /password-generator
 │── index.html       # Main HTML structure
+
 │── style.css        # Styling and animations
+
 │── script.js        # JavaScript functionality
+
 │── README.md        # Documentation
 
 
